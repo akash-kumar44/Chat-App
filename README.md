@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### For Demo Chatting:
+ `Username` - `Naruto`
+ `Password` - `123123`
+
 ## Available Scripts
 
 In the project directory, you can run:
