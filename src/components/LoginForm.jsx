@@ -16,8 +16,8 @@ const Modal = () => {
     try {
       await axios.get('https://api.chatengine.io/chats', { headers: authObject });
 
-      localStorage.setItem('username', username);
-      localStorage.setItem('password', password);
+      localStorage.setItem('username', Naruto);
+      localStorage.setItem('password', 123);
 
       window.location.reload();
       setError('');
